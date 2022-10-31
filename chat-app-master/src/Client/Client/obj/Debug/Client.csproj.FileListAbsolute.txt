@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\chat-app-master\src\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Александр\Desktop\chat-app-master\src\Client\Client\bin\Debug\Client.exe
+C:\Users\Александр\Desktop\chat-app-master\src\Client\Client\bin\Debug\Client.pdb
+C:\Users\Александр\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.Client.resources
+C:\Users\Александр\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Александр\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.exe
+C:\Users\Александр\Desktop\chat-app-master\src\Client\Client\obj\Debug\Client.pdb
